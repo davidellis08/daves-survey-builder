@@ -1,3 +1,4 @@
+@regression
 Feature: Create a survey with sections and questions
 
   As an Admin user  
