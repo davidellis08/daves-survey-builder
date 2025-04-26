@@ -1,4 +1,4 @@
-# daves-survey-builder
+# David Ellis Test Engineer Assessment
 Task 1 - Find and document bugs with detailed reproduction steps
 I have used the Issues tab to document bugs keeping all project work together in github
 
@@ -13,4 +13,4 @@ Manual test plan for execution (based on gherkin file) can be found here:
 
 [Manual Regression Test Google Sheet](https://docs.google.com/spreadsheets/d/1050Ak4A60kmJyawbwDDofBSdm3QRGkmyIu8GwJdfB-k/edit?usp=sharing)
 
-
+On the wiki I have also created a brief test strategy and some questions for the project owner
