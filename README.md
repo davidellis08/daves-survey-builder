@@ -7,7 +7,8 @@ manual-regression-task/
 └── gherkin/
     └── features/
         └── regression/
-            └──survey-creation-submission-review-delete-e2e.feature
+            └── survey-creation-submission-review-delete-e2e.feature
+
             
 Manual test plan for execution (based on gherkin file) can be found here:
 
