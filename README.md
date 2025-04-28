@@ -7,4 +7,4 @@ Task 2 - Create a manual regression test pack
 
 * Manual test plan for execution (based on gherkin file) can be found here: [Manual Regression Test Google Sheet](https://docs.google.com/spreadsheets/d/1050Ak4A60kmJyawbwDDofBSdm3QRGkmyIu8GwJdfB-k/edit?usp=sharing)
 
-* On the wiki I have also created a brief test strategy and some questions for the project owner: [wiki](https://github.com/davidellis08/daves-survey-builder/wiki)
+* On the [wiki tab](https://github.com/davidellis08/daves-survey-builder/wiki) I have also created a brief test strategy and some questions for the project owner
