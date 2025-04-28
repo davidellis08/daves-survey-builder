@@ -51,4 +51,4 @@ Feature: End to end regression test for survey builder
     Given I am on the "Assessment templates" page
     When I select to view "Regression Test Survey"
     And I click the "Delete" button
-    Then I the survey and responses should be removed from the system
+    Then the survey and responses should be removed from the system
