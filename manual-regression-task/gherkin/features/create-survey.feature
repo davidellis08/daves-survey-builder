@@ -1,4 +1,3 @@
-@regression
 Feature: Create a survey with multiple sections, pages and questions
 
   As an Admin user  
@@ -66,17 +65,17 @@ Feature: Create a survey with multiple sections, pages and questions
     And a button to copy the link and buttons to view or list the survey should be available 
     
   @negative
-  Scenario: Create a survey without a title and description should fail
+  Scenario: Survey creation fails without without a title and description
   @negative
-  Scenario: Create a survey with no section should fail
+  Scenario: Survey creation fails with no section
   @negative
-  Scenario: Create a survey with a section, and a page without questions should fail
+  Scenario: Survey creation fails when a page has no questions
   @negative
-  Scenario: Create a survey with a section, and a page with a Text Response question without title should fail
+  Scenario: Text Response question without title should fail
   @negative
-  Scenario: Create a survey with a section, and a page with a Multiple Choice question without title and options should fail
+  Scenario: Multiple Choice question without title and options should fail
   @negative
-  Scenario: Create a survey with a section, and a page with a Checkbox question without title and options should fail
+  Scenario: Checkbox question without title and options should fail
   @negative
-  Scenario: Create a survey with a section, and a page with a Rating question without title
+  Scenario: Rating question without title should fail
 
