@@ -1,5 +1,4 @@
 @regression
-
 Feature: End to end regression test for survey builder
 # Survey builder regression plan covering creation of survey with multiple sections, pages, and questions. 
 # Covers response submission, results review and deletion of survey.
