@@ -14,3 +14,5 @@ Background: Survey is created with multiple sections, pages and questions
 
 @negative
     Scenario: Submit a survey fails without completing mandatory questions
+    Scenario: Submit survey including personal data should fail
+
